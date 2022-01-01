@@ -6,7 +6,7 @@ export default function Home() {
 
   if (!isAuthenticated) return <Login />;
   return (
-    <div className="text-black">
+    <div className="h-screen">
       <Head>
         <title>Metaverse chat</title>
         <link rel="icon" href="/favicon.ico" />
