@@ -25,7 +25,7 @@ function Login() {
 
         <button
           onClick={() => {
-            authenticate();
+            authenticate(), authError && alert(authError);
           }}
           className=" px-4 py-3 rounded-xl  font-semibold  cursor-pointer bg-gradient-to-r from-violet-600 to-fuchsia-600  active:scale-90 transition translate ease-out"
         >
