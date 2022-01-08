@@ -1,3 +1,17 @@
+# METEAVERSH-CHAT
+
+
+![587f5d36-3ec7-47cd-be80-1cd4c10d5e3c](https://user-images.githubusercontent.com/66429052/148640887-d0f7ede3-f5c8-4992-8d1d-9ff0713483f5.png)
+
+
+
+
+
+
+
+
+
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
