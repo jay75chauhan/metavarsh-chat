@@ -3,6 +3,7 @@ import React from "react";
 import { useMoralis } from "react-moralis";
 import Avatar from "./Avatar";
 import ChangeUserName from "./ChangeUserName";
+import logo from "../public/compass.png";
 
 function Header() {
   const { user, logout } = useMoralis();
@@ -15,9 +16,7 @@ function Header() {
             onClick={() => logout()}
             className="rounded-full cursor-pointer"
             objectFit="cover"
-            src={
-              "https://bernardmarr.com/wp-content/uploads/2021/12/The-8-Most-Important-Metaverse-Companies.jpg"
-            }
+            src={logo}
             layout="fill"
           />
         </div>

@@ -11,7 +11,7 @@ export default function Home() {
     <div className="h-screen overflow-y-scroll bg-gradient-to-b from-black to-blue-900 overflow-hidden">
       <Head>
         <title>welcome to Metaverse chat</title>
-        <link rel="icon" href="/t.jpg" />
+        <link rel="icon" href="/compass.png" />
       </Head>
 
       <div className="max-w-screen-xl mx-auto">
