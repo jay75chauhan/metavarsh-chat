@@ -25,7 +25,13 @@ function Login() {
 
         <button
           onClick={() => {
-            authenticate(), authError && alert(authError);
+            authenticate(),
+              authError &&
+                alert(
+                  "👉",
+                  authError,
+                  "⛔ our you need to add web 3 wallet EX-MetaMask Wallet"
+                );
           }}
           className=" px-2 py-3 rounded-xl  font-semibold  cursor-pointer bg-gradient-to-r from-violet-600 to-fuchsia-600 hover:scale-110 active:scale-90 transition translate ease-out"
         >
