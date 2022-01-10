@@ -1,9 +1,6 @@
 # METEAVERSH-CHAT
 
-
-![587f5d36-3ec7-47cd-be80-1cd4c10d5e3c](https://user-images.githubusercontent.com/66429052/148640887-d0f7ede3-f5c8-4992-8d1d-9ff0713483f5.png)
-
-
+![8f538dd5-3d60-4763-a25d-02e3d0a4e924](https://user-images.githubusercontent.com/66429052/148686154-4a3f3dc1-703a-4c76-a3b8-62d510db48a7.png)
 
 
 
